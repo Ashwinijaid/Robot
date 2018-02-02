@@ -25,7 +25,7 @@ for($i=0;$i<strlen($s);$i++){
     
 }
 
-echo "op =$xaxis $yaxis $D";
+echo "$xaxis $yaxis $D";
 
 function R($dir)
 {
